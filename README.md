@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-    <img src="https://github.com/Noah369-Create/bi_analyst_banking/blob/main/Banner.png" alt="Banner.png">
+    <img src="https://github.com/Noah369-Create/bi_analyst_banking/main/Banner.png" alt="Banner.png">
 </p>
 
 ## Project Overview
