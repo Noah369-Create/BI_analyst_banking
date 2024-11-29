@@ -1,9 +1,9 @@
-<h1 align="center">B</h1>
+<h1 align="center">Business Intelligence Analysis in Banking</h1>
 
 ---
 
 <p align="center">
-    <img src="https://github.com/Noah369-Create/bi_analyst_banking/main/Banner.png" alt="Banner.png">
+    <img src="https://github.com/Noah369-Create/BI_analyst_banking/blob/main/Banner.PNG" alt="Banner.png">
 </p>
 
 ## Project Overview
